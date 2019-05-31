@@ -21,5 +21,7 @@ With that in mind, please answer the following questions in your own gist about 
 * Talk about what went well, what went wrong, and what actions were going to take.
 
 6. In your team retro, how did you engage in the feedback process? What principles of feedback did you use in these conversations?
+* I started the retro by stating how dividing up the project by each iteration was not efficient. I optimisticly stated how dividing up the methods in each individual iteration would be more efficient in terms of getting the project done and learning the logic together on the way.
 
 7. How would you describe your ability to communicate feedback? How has this experience affected your communication skills? How do you want to improve in your ability to communicate feedback?
+* I'd say I was pretty transparent. If I felt something was going the right way or not I spoke my mind
